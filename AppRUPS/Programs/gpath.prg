@@ -9,7 +9,7 @@ vSortBy    = ' '
 && gcPath = 'C:\AppRUPS'
 
 && Path Development
-gcPath = 'D:\BACKUP_DATA\APLIKASI\01-DEVELOPMENT\AppRUPS'
+gcPath = 'D:\BACKUP_DATA\APLIKASI\DEVELOPMENT\AppRUPS'
 
 SET DEFAULT TO &gcPath
 
