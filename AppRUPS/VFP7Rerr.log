@@ -1,0 +1,15 @@
+
+
+Fatal error: Exception code=C0000005 @ 30-06-2016 01:18:56 PM. Error log file: C:\AppRUPS\VFP7Rerr.log
+	Called from -  rlapregis.cmdprinter.click line 59  {c:\apprups\forms\rlapregis.sct c:\apprups\forms\rlapregis.sct}
+	Called from -  main line 45  {C:\AppRUPS\programs\main.prg c:\apprups\apprups.exe}
+
+
+Fatal error: Exception code=C0000005 @ 07-02-2017 10:31:12 AM. Error log file: C:\AppRUPS\VFP7Rerr.log
+	Called from -  rlapregis.cmdprinter.click line 59  {c:\apprups\forms\rlapregis.sct c:\apprups\forms\rlapregis.sct}
+	Called from -  main line 45  {C:\AppRUPS\programs\main.prg c:\apprups\apprups.exe}
+
+
+Fatal error: Exception code=C0000005 @ 19-05-2017 10:06:07 AM. Error log file: C:\AppRUPS\VFP7Rerr.log
+	Called from -  rlapregis.cmdprinter.click line 50  {c:\apprups\forms\rlapregis.sct c:\apprups\forms\rlapregis.sct}
+	Called from -  main line 51  {C:\AppRUPS\programs\main.prg c:\apprups\apprups.exe}
