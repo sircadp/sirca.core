@@ -6,7 +6,7 @@ vOrderBy   = ' '
 vSortBy    = ' '
 
 && Path Production
-gcPath = 'C:\AppRUPS'
+ gcPath = 'C:\AppRUPS'
 
 && Path Development
 && gcPath = 'D:\BACKUP_DATA\APLIKASI\DEVELOPMENT\AppRUPS'
